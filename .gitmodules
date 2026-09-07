@@ -1,0 +1,12 @@
+[submodule "paytest-app"]
+	path = paytest-app
+	url = https://github.com/DevKhris/paytest-app.git
+[submodule "paytest-api-express"]
+	path = paytest-api-express
+	url = https://github.com/DevKhris/paytest-api-express.git
+[submodule "paytest-api-slim"]
+	path = paytest-api-slim
+	url = https://github.com/DevKhris/paytest-api-slim.git
+[submodule "paytest-api-flask"]
+	path = paytest-api-flask
+	url = https://github.com/DevKhris/paytest-api-flask.git
