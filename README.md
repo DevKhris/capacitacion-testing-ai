@@ -2,12 +2,12 @@
 
 Project for a training session about assisted testing with agentic tools using Jest/PyTest/PHPUnit test suites, covering one frontend application with three APIs.
 
-## Stack
+## Project Stack
 
 ### paytest/ — Main Frontend
 - **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4
 - **Package manager:** pnpm
-- **Run:** `pnpm dev`
+ - **Run:** `pnpm dev`
 
 ### paytest-api-express/ — Express API
 - **Stack:** Node.js · Express 4
